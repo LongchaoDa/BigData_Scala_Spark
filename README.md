@@ -1,4 +1,6 @@
 # BigData_Scala_Spark
+reference:
+https://github.com/williamdemeo/cs644-fall2022  
 
 ## coding lecture1
 1. abs function usage and creation
@@ -6,3 +8,7 @@
 3. pattern_mapping by customization through two ways [straight_forward, better_version]
 mainly learned the basics grammars of variable define and function declare
 and reviewed recursive function's idea
+4. found other resources:
+   https://sunlab.org/teaching/cse6250/spring2022/spark/scala-intro.html#basic-gramma  
+   https://www.cs.helsinki.fi/u/wikla/OTS/Sisalto/examples/index.html  
+   
