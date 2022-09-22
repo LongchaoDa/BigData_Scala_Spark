@@ -2,6 +2,9 @@
 reference:
 https://github.com/williamdemeo/cs644-fall2022  
 
+first commit with messages
+second git push -u origin main
+
 ## coding lecture1
 1. abs function usage and creation
 2. factorial function with two ways to create [straight_forward, better_version]
